@@ -2,7 +2,7 @@
 // @name        IntraGroup Peer Reviews
 // @description Assign intra-group peer reviews
 // @namespace   https://github.com/jamesjonesmath/canvancement
-// @match       https://*.instructure.com/courses/*/assignments/*/peer_reviews
+// @match       https://canvas.unl.edu/courses/*/assignments/*/peer_reviews
 // @version     1
 // @grant       none
 // ==/UserScript==
